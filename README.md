@@ -15,6 +15,5 @@ Here are some ideas to get you started:
 -->
 - 👨‍💻 I’m Ziad! 
 - 📇 Software Development Engineer in Test
-- 🙌 Co-Organizer of [**Ministry of Testing Cairo Meetups**](https://www.meetup.com/Ministry-of-Testing-Cairo/ "**Ministry of Testing Cairo Meetups**")
 - 🕸 I write about a variety of subjects including software engineering on [**my blog**](https://ziadtawfeek.github.io/web/)
 - 📫 Reach out to me [**here**](https://ziadtawfeek.typeform.com/to/Yriu8h "here") 
